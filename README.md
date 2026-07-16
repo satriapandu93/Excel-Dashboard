@@ -1,13 +1,13 @@
 # Excel-Dashboard 
 
-# Dashboard Sales and Revenue 
+# Dashboard Sales and Revenue SUPER MART
 
 <img width="640" height="326" alt="image" src="https://github.com/user-attachments/assets/e4eb0a1d-b82e-436d-9149-e6d78134dc50" />
 
 <img width="640" height="325" alt="image" src="https://github.com/user-attachments/assets/203ced23-a173-441d-9ecf-43283afd0a73" />
 
 
-# Dashboard dan Forecasting
+# Dashboard dan Forecasting Vape 2024
 
 
 Dashboard
